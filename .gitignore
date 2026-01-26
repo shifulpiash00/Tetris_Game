@@ -1,0 +1,17 @@
+# Compiled files
+/build/
+dist/
+*.class
+
+# NetBeans files
+/nbproject/private/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
