@@ -92,6 +92,24 @@ The game starts with a user-friendly menu containing:
 
 ---
 
+## 📸 Screenshots
+
+### 🎮 Main Menu
+![Main Menu](screenshots/Startup_Form.png)
+
+### 🧩 Gameplay Modes
+![Game Modes](screenshots/GameModes.png)
+
+### ✨ GameLook
+![Game Look](screenshots/GameLook.png)
+
+### 🏆 Leaderboard
+![Leaderboard](screenshots/Leaderboard.png)
+
+### 📃 Instructions
+![Instructions](screenshots/Instructions.png)
+
+
 ## 🎨 Game Interface
 - Visual design changes based on selected mode
 - High-contrast black & white mode
@@ -99,4 +117,5 @@ The game starts with a user-friendly menu containing:
 - Designed to keep players visually interested
 
 ---
+
 
