@@ -110,6 +110,9 @@ The game starts with a user-friendly menu containing:
 ![Instructions](screenshots/Instructions.png)
 
 
+---
+
+
 ## 🎨 Game Interface
 - Visual design changes based on selected mode
 - High-contrast black & white mode
@@ -117,5 +120,6 @@ The game starts with a user-friendly menu containing:
 - Designed to keep players visually interested
 
 ---
+
 
 
